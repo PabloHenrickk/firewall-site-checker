@@ -183,7 +183,7 @@ MIT License — veja o arquivo [LICENSE](./LICENSE) para detalhes.
 
 **Pablo Henrick**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Henrick-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-henrick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Henrick-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablohenrick)
 [![GitHub](https://img.shields.io/badge/GitHub-PabloHenrickk-black?style=flat-square&logo=github)](https://github.com/PabloHenrickk)
 
 ---
