@@ -1,0 +1,15 @@
+# ─────────────────────────────────────────────────────────────────
+#  LISTA DE SITES PARA TESTAR
+#  - Um site por linha
+#  - Linhas começando com # são comentários (ignoradas)
+# ─────────────────────────────────────────────────────────────────
+
+
+caixa.gov.br	
+bb.com.br	 	 
+https://tv.apple.com/br
+https://www.paramountplus.com/br/
+https://curiositystream.com/
+https://www.espn.com/espnplus/
+https://www.dazn.com/
+https://www.crunchyroll.com/
