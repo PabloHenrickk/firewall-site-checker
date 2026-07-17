@@ -1,15 +1,151 @@
 # ─────────────────────────────────────────────────────────────────
-#  LISTA DE SITES PARA TESTAR
-#  - Um site por linha
-#  - Linhas começando com # são comentários (ignoradas)
+# LISTA DE SITES PARA TESTAR
+# - Um site por linha
+# - Linhas começando com # são comentários (ignoradas)
 # ─────────────────────────────────────────────────────────────────
-
-
-caixa.gov.br	
-bb.com.br	 	 
-https://tv.apple.com/br
-https://www.paramountplus.com/br/
-https://curiositystream.com/
-https://www.espn.com/espnplus/
-https://www.dazn.com/
-https://www.crunchyroll.com/
+ 
+# REDES SOCIAIS
+facebook.com
+instagram.com
+tiktok.com
+x.com
+twitter.com
+threads.net
+linkedin.com
+reddit.com
+snapchat.com
+pinterest.com
+ 
+# VÍDEOS E STREAMING
+youtube.com
+youtu.be
+netflix.com
+disneyplus.com
+primevideo.com
+max.com
+globoplay.globo.com
+twitch.tv
+vimeo.com
+dailymotion.com
+ 
+# MÚSICA
+spotify.com
+music.youtube.com
+deezer.com
+soundcloud.com
+music.apple.com
+ 
+# MENSAGENS
+web.whatsapp.com
+whatsapp.com
+web.telegram.org
+telegram.org
+discord.com
+discord.gg
+messenger.com
+signal.org
+ 
+# E-MAIL PESSOAL
+mail.google.com
+gmail.com
+outlook.live.com
+outlook.com
+mail.yahoo.com
+proton.me
+protonmail.com
+ 
+# ARMAZENAMENTO EM NUVEM
+drive.google.com
+dropbox.com
+onedrive.live.com
+box.com
+mega.nz
+mediafire.com
+4shared.com
+wetransfer.com
+ 
+# IA GENERATIVA
+chatgpt.com
+openai.com
+gemini.google.com
+claude.ai
+perplexity.ai
+deepseek.com
+copilot.microsoft.com
+ 
+# COMPRAS
+mercadolivre.com.br
+amazon.com.br
+shopee.com.br
+aliexpress.com
+temu.com
+magazineluiza.com.br
+casasbahia.com.br
+americanas.com.br
+kabum.com.br
+ 
+# APOSTAS
+pgsoft.com
+www.pgsoft.com
+pgsoft-games.com
+fortunetiger.org
+fortunetiger3.com
+fortunetigers.io
+fortune-tiger-casino.app
+fortunetigerjogo.com
+betano.com
+bet365.com
+blaze.com
+sportingbet.com
+kto.bet.br
+superbet.bet.br
+pixbet.com
+ 
+# CRIPTOMOEDAS
+binance.com
+coinbase.com
+mercadobitcoin.com.br
+bybit.com
+kraken.com
+ 
+# JOGOS
+pokelike.xyz
+store.steampowered.com
+steampowered.com
+epicgames.com
+ea.com
+riotgames.com
+battle.net
+roblox.com
+minecraft.net
+miniclip.com
+poki.com
+crazygames.com
+ 
+# VPN / PROXY
+nordvpn.com
+expressvpn.com
+protonvpn.com
+surfshark.com
+hide.me
+psiphon.ca
+ultrasurf.us
+croxyproxy.com
+ 
+# ACESSO REMOTO
+teamviewer.com
+anydesk.com
+rustdesk.com
+ 
+# CONTEÚDO ADULTO (apenas para validar categoria do filtro)
+pornhub.com
+xvideos.com
+xnxx.com
+redtube.com
+xhamster.com
+youporn.com
+spankbang.com
+tube8.com
+ 
+# NÃO ACESSE MANUALMENTE. Verifique apenas se a categoria "Adult/Pornography"
+# está bloqueada na ferramenta de firewall/proxy.
